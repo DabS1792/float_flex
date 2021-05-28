@@ -15,9 +15,9 @@ div{outline: 1px solid black;}
 .block1_right {width: 600px;				
 				float: left;}
 
-.block1_left_left {width: 300px;				
+.block1_left {width: 300px;				
 					float: left;}								
-.block1_left_right {width: 300px;				
+.block1_middle {width: 300px;				
 					float: left;}	
 .clr {clear:both;}
 
